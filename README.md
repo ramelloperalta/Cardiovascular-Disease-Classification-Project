@@ -1,4 +1,4 @@
-# cardiotrain-project
+# Cardiovascular disease Classification project
 Dataset obtained from:https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
 Classification research problem involving health profiles of adults to find patterns regarding risk of cardiovascular disease.
